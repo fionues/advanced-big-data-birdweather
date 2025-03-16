@@ -1,0 +1,10 @@
+version: '3.1'
+services:
+  pyspark:
+    platform: linux/arm64/v8
+    build: .
+    container_name: PySpark_JupyterNotebook
+    ports:
+      - "8888:8888"
+    volumes:
+      - ./:/home/jovyan/work
