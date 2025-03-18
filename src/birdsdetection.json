@@ -1,0 +1,2905 @@
+{
+    "success": true,
+    "detections": [
+        {
+            "id": 1767103276,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:56:15.000+01:00",
+            "confidence": 0.5846255421638489,
+            "probability": 0.04841485247015953,
+            "score": 4.800667020637542,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 57,
+                "commonName": "Rook",
+                "scientificName": "Corvus frugilegus",
+                "color": "#ff49b1",
+                "imageUrl": "https://media.birdweather.com/species/57/Rook-standard-c4bce1f1c15f4c24dc9ca86d6ecd1779.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/57/Rook-thumbnail-d5087727ae9a5053670c964e1e518b84.jpg",
+                "pngUrl": "https://media.birdweather.com/species/57/Rook-png200-19edc6b0ff2808b18749b1c8009780a6.png"
+            },
+            "lat": 47.533535,
+            "lon": 8.739982,
+            "soundscape": {
+                "id": 2273170735,
+                "url": "https://media.birdweather.com/soundscapes/e39a3722b9b90f796046604ba23eef37",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767088549,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:54:26.500+01:00",
+            "confidence": 0.5434948205947876,
+            "probability": 0.9941527843475342,
+            "score": 8.483570241423447,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533585,
+            "lon": 8.740098,
+            "soundscape": {
+                "id": 2273156869,
+                "url": "https://media.birdweather.com/soundscapes/ca20e77c7b61f41ea63df27cff86a9b4",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767084537,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:53:59.000+01:00",
+            "confidence": 0.8411190509796143,
+            "probability": 0.9941527843475342,
+            "score": 9.577575028583183,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533554,
+            "lon": 8.740196,
+            "soundscape": {
+                "id": 2273153024,
+                "url": "https://media.birdweather.com/soundscapes/b8b78d91eb228aa33571098862c2f363",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767080931,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:53:44.500+01:00",
+            "confidence": 0.5583300590515137,
+            "probability": 0.9941527843475342,
+            "score": 8.56459532165164,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533569,
+            "lon": 8.740354,
+            "soundscape": {
+                "id": 2273149527,
+                "url": "https://media.birdweather.com/soundscapes/67dfb1c63fcb86aeca8953b1d1c9e84b",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767078279,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:53:26.000+01:00",
+            "confidence": 0.6169989109039307,
+            "probability": 0.9941527843475342,
+            "score": 8.844979894663565,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533569,
+            "lon": 8.740223,
+            "soundscape": {
+                "id": 2273146982,
+                "url": "https://media.birdweather.com/soundscapes/5e03cdb663784bd3db4f76a052b13d26",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767072071,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:41.000+01:00",
+            "confidence": 0.5283997654914856,
+            "probability": 0.9941527843475342,
+            "score": 8.395892679198782,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533592,
+            "lon": 8.73959,
+            "soundscape": {
+                "id": 2273140907,
+                "url": "https://media.birdweather.com/soundscapes/0e45cabdc7eb63c1f170a84c6482647d",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767072064,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:39.500+01:00",
+            "confidence": 0.8386092185974121,
+            "probability": 0.9941527843475342,
+            "score": 9.571205876911286,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533592,
+            "lon": 8.73959,
+            "soundscape": {
+                "id": 2273140907,
+                "url": "https://media.birdweather.com/soundscapes/0e45cabdc7eb63c1f170a84c6482647d",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767072063,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:38.000+01:00",
+            "confidence": 0.8576761484146118,
+            "probability": 0.9941527843475342,
+            "score": 9.618865599432596,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533592,
+            "lon": 8.73959,
+            "soundscape": {
+                "id": 2273140907,
+                "url": "https://media.birdweather.com/soundscapes/0e45cabdc7eb63c1f170a84c6482647d",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767069701,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:30.500+01:00",
+            "confidence": 0.57893967628479,
+            "probability": 0.9941527843475342,
+            "score": 8.669753067121453,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533596,
+            "lon": 8.73973,
+            "soundscape": {
+                "id": 2273138632,
+                "url": "https://media.birdweather.com/soundscapes/edfb79c202e4b8289debcfc8fe1988fa",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767069698,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:29.000+01:00",
+            "confidence": 0.531912624835968,
+            "probability": 0.9941527843475342,
+            "score": 8.416803307868207,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533596,
+            "lon": 8.73973,
+            "soundscape": {
+                "id": 2273138632,
+                "url": "https://media.birdweather.com/soundscapes/edfb79c202e4b8289debcfc8fe1988fa",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767069696,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:26.000+01:00",
+            "confidence": 0.7741567492485046,
+            "probability": 0.9941527843475342,
+            "score": 9.396596178732075,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533596,
+            "lon": 8.73973,
+            "soundscape": {
+                "id": 2273138632,
+                "url": "https://media.birdweather.com/soundscapes/edfb79c202e4b8289debcfc8fe1988fa",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767067642,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:52:08.000+01:00",
+            "confidence": 0.659407913684845,
+            "probability": 0.9941527843475342,
+            "score": 9.016996622049797,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533573,
+            "lon": 8.739826,
+            "soundscape": {
+                "id": 2273136609,
+                "url": "https://media.birdweather.com/soundscapes/4d2a9c2180c7364b8e3d3e77078a7ec1",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767064906,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:51:44.000+01:00",
+            "confidence": 0.7816321849822998,
+            "probability": 0.9941527843475342,
+            "score": 9.418026759108782,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533588,
+            "lon": 8.740088,
+            "soundscape": {
+                "id": 2273134017,
+                "url": "https://media.birdweather.com/soundscapes/ba2d09396a703292b61158d1270969a1",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767045397,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:49:22.000+01:00",
+            "confidence": 0.5864768028259277,
+            "probability": 0.9941527843475342,
+            "score": 8.706280035915091,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533375,
+            "lon": 8.739968,
+            "soundscape": {
+                "id": 2273114982,
+                "url": "https://media.birdweather.com/soundscapes/c6622ee8ddb862454ade796213e49ba0",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1767028813,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:47:23.000+01:00",
+            "confidence": 0.6189296245574951,
+            "probability": 0.9831233620643616,
+            "score": 8.838167639852639,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 58,
+                "commonName": "Carrion Crow",
+                "scientificName": "Corvus corone",
+                "color": "#01a85a",
+                "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+                "pngUrl": "https://media.birdweather.com/species/58/CarrionCrow-png200-5ec2904f61f6588853b296f54d8d0cb6.png"
+            },
+            "lat": 47.533417,
+            "lon": 8.740024,
+            "soundscape": {
+                "id": 2273098995,
+                "url": "https://media.birdweather.com/soundscapes/8c5be0001a092ac3518705c396e51c5e",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766926719,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:34:50.500+01:00",
+            "confidence": 0.5883051753044128,
+            "probability": 0.9941527843475342,
+            "score": 8.714995962438634,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.53339,
+            "lon": 8.74031,
+            "soundscape": {
+                "id": 2273001749,
+                "url": "https://media.birdweather.com/soundscapes/0ce8357890395fbf444bcaa7816ac486",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766907559,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:32:28.000+01:00",
+            "confidence": 0.6218171715736389,
+            "probability": 0.9941527843475342,
+            "score": 8.865646695259544,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533321,
+            "lon": 8.739885,
+            "soundscape": {
+                "id": 2272982934,
+                "url": "https://media.birdweather.com/soundscapes/d2bd9ac31bb49e088710c86967f820d7",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766905670,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:32:09.000+01:00",
+            "confidence": 0.5699623823165894,
+            "probability": 0.9941527843475342,
+            "score": 8.62493636689637,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.740017,
+            "soundscape": {
+                "id": 2272981027,
+                "url": "https://media.birdweather.com/soundscapes/c9918d30aa3fcdad4569be34f498e178",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766901530,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:31:41.500+01:00",
+            "confidence": 0.5182254910469055,
+            "probability": 0.9941527843475342,
+            "score": 8.333463751681851,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533363,
+            "lon": 8.739992,
+            "soundscape": {
+                "id": 2272977034,
+                "url": "https://media.birdweather.com/soundscapes/a281f3e5d9cf50817ec49767bf054b53",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766895485,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:30:58.000+01:00",
+            "confidence": 0.5424250960350037,
+            "probability": 0.9941527843475342,
+            "score": 8.477538280335898,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.53334,
+            "lon": 8.739852,
+            "soundscape": {
+                "id": 2272971389,
+                "url": "https://media.birdweather.com/soundscapes/b3373d71ee33fec67c16e9a0ce9fda72",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766895477,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:30:56.500+01:00",
+            "confidence": 0.6890161633491516,
+            "probability": 0.9941527843475342,
+            "score": 9.125449795759163,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.53334,
+            "lon": 8.739852,
+            "soundscape": {
+                "id": 2272971389,
+                "url": "https://media.birdweather.com/soundscapes/b3373d71ee33fec67c16e9a0ce9fda72",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766893522,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:30:45.000+01:00",
+            "confidence": 0.7835938930511475,
+            "probability": 0.9941527843475342,
+            "score": 9.423595493348058,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533333,
+            "lon": 8.740004,
+            "soundscape": {
+                "id": 2272969518,
+                "url": "https://media.birdweather.com/soundscapes/9a8b0e64175eb1fa4f813eaa827a46b5",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766893516,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:30:40.500+01:00",
+            "confidence": 0.5089118480682373,
+            "probability": 0.9941527843475342,
+            "score": 8.273709136554524,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533333,
+            "lon": 8.740004,
+            "soundscape": {
+                "id": 2272969518,
+                "url": "https://media.birdweather.com/soundscapes/9a8b0e64175eb1fa4f813eaa827a46b5",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766876020,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:28:33.500+01:00",
+            "confidence": 0.8258379697799683,
+            "probability": 0.9924542903900146,
+            "score": 9.536010474378559,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272952963,
+                "url": "https://media.birdweather.com/soundscapes/e58287b9ba52f37f02e5f98d6efe760f",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766872710,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:28:10.000+01:00",
+            "confidence": 0.78421550989151,
+            "probability": 0.9924542903900146,
+            "score": 9.423036099913798,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272949781,
+                "url": "https://media.birdweather.com/soundscapes/6905c2fce7e9aa980f6b950215784b56",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766872703,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:28:08.500+01:00",
+            "confidence": 0.6004326939582825,
+            "probability": 0.9924542903900146,
+            "score": 8.7691264315551,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272949781,
+                "url": "https://media.birdweather.com/soundscapes/6905c2fce7e9aa980f6b950215784b56",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766872699,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:28:05.500+01:00",
+            "confidence": 0.7974166870117188,
+            "probability": 0.9924542903900146,
+            "score": 9.459886364430826,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272949781,
+                "url": "https://media.birdweather.com/soundscapes/6905c2fce7e9aa980f6b950215784b56",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766872695,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:28:04.000+01:00",
+            "confidence": 0.6084526181221008,
+            "probability": 0.9924542903900146,
+            "score": 8.805218389566608,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272949781,
+                "url": "https://media.birdweather.com/soundscapes/6905c2fce7e9aa980f6b950215784b56",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766870546,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:52.500+01:00",
+            "confidence": 0.6749778389930725,
+            "probability": 0.9924542903900146,
+            "score": 9.072777587456189,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272947697,
+                "url": "https://media.birdweather.com/soundscapes/b42c6fdaa45c2c591841dec48dda4b8e",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766870540,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:51.000+01:00",
+            "confidence": 0.6931983232498169,
+            "probability": 0.9924542903900146,
+            "score": 9.1377802455494,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272947697,
+                "url": "https://media.birdweather.com/soundscapes/b42c6fdaa45c2c591841dec48dda4b8e",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766870539,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:49.500+01:00",
+            "confidence": 0.7315025329589844,
+            "probability": 0.9924542903900146,
+            "score": 9.265134427279346,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272947697,
+                "url": "https://media.birdweather.com/soundscapes/b42c6fdaa45c2c591841dec48dda4b8e",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766870534,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:48.000+01:00",
+            "confidence": 0.6725813150405884,
+            "probability": 0.9924542903900146,
+            "score": 9.06399366970281,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533291,
+            "lon": 8.739747,
+            "soundscape": {
+                "id": 2272947697,
+                "url": "https://media.birdweather.com/soundscapes/b42c6fdaa45c2c591841dec48dda4b8e",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766868878,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:42.000+01:00",
+            "confidence": 0.8954960703849792,
+            "probability": 0.9924542903900146,
+            "score": 9.706440758010043,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533314,
+            "lon": 8.739906,
+            "soundscape": {
+                "id": 2272946028,
+                "url": "https://media.birdweather.com/soundscapes/ce831a779f7225b751dd5bc95fc114af",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766868875,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:39.000+01:00",
+            "confidence": 0.8765437602996826,
+            "probability": 0.9924542903900146,
+            "score": 9.662130099655261,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533314,
+            "lon": 8.739906,
+            "soundscape": {
+                "id": 2272946028,
+                "url": "https://media.birdweather.com/soundscapes/ce831a779f7225b751dd5bc95fc114af",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766865376,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:27:05.000+01:00",
+            "confidence": 0.571614682674408,
+            "probability": 0.9924542903900146,
+            "score": 8.630976597991465,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533329,
+            "lon": 8.739925,
+            "soundscape": {
+                "id": 2272942555,
+                "url": "https://media.birdweather.com/soundscapes/1cfcf5e3451f2485a92b9c3a43fa93ae",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766863217,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:59.000+01:00",
+            "confidence": 0.6072682738304138,
+            "probability": 0.9924542903900146,
+            "score": 8.799947970121996,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533329,
+            "lon": 8.739925,
+            "soundscape": {
+                "id": 2272940431,
+                "url": "https://media.birdweather.com/soundscapes/ce8cca53146e41b5e1a262df458d6ccc",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766863215,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:57.500+01:00",
+            "confidence": 0.5986210107803345,
+            "probability": 0.9924542903900146,
+            "score": 8.760839984109612,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533329,
+            "lon": 8.739925,
+            "soundscape": {
+                "id": 2272940431,
+                "url": "https://media.birdweather.com/soundscapes/ce8cca53146e41b5e1a262df458d6ccc",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766863213,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:53.000+01:00",
+            "confidence": 0.6485463380813599,
+            "probability": 0.9924542903900146,
+            "score": 8.972636420260443,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533329,
+            "lon": 8.739925,
+            "soundscape": {
+                "id": 2272940431,
+                "url": "https://media.birdweather.com/soundscapes/ce8cca53146e41b5e1a262df458d6ccc",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766861466,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:45.500+01:00",
+            "confidence": 0.706814169883728,
+            "probability": 0.9924542903900146,
+            "score": 9.184418295503761,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533348,
+            "lon": 8.740073,
+            "soundscape": {
+                "id": 2272938838,
+                "url": "https://media.birdweather.com/soundscapes/3d1a696099f67103aa13963911b4d360",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766857959,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:18.000+01:00",
+            "confidence": 0.7262069582939148,
+            "probability": 0.9924542903900146,
+            "score": 9.248217208683078,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272935457,
+                "url": "https://media.birdweather.com/soundscapes/a1b42822d303a78e93c54ffa8b7b3c0a",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766857945,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:16.500+01:00",
+            "confidence": 0.8301149606704712,
+            "probability": 0.9924542903900146,
+            "score": 9.547108525046811,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272935457,
+                "url": "https://media.birdweather.com/soundscapes/a1b42822d303a78e93c54ffa8b7b3c0a",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766857943,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:15.000+01:00",
+            "confidence": 0.8677939176559448,
+            "probability": 0.9924542903900146,
+            "score": 9.641179084459033,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272935457,
+                "url": "https://media.birdweather.com/soundscapes/a1b42822d303a78e93c54ffa8b7b3c0a",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766856292,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:09.000+01:00",
+            "confidence": 0.8341884016990662,
+            "probability": 0.9924542903900146,
+            "score": 9.55759546261718,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272933850,
+                "url": "https://media.birdweather.com/soundscapes/a80446975ed57f2b5eaf96aabd309abf",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766856277,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:07.500+01:00",
+            "confidence": 0.5608024597167969,
+            "probability": 0.9924542903900146,
+            "score": 8.575325563983698,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272933850,
+                "url": "https://media.birdweather.com/soundscapes/a80446975ed57f2b5eaf96aabd309abf",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766856272,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:06.000+01:00",
+            "confidence": 0.537367582321167,
+            "probability": 0.9924542903900146,
+            "score": 8.446335486030174,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272933850,
+                "url": "https://media.birdweather.com/soundscapes/a80446975ed57f2b5eaf96aabd309abf",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766856250,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:26:04.500+01:00",
+            "confidence": 0.6274966597557068,
+            "probability": 0.9924542903900146,
+            "score": 8.887294558265967,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533352,
+            "lon": 8.739928,
+            "soundscape": {
+                "id": 2272933850,
+                "url": "https://media.birdweather.com/soundscapes/a80446975ed57f2b5eaf96aabd309abf",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766852530,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:25:43.000+01:00",
+            "confidence": 0.5954960584640503,
+            "probability": 0.9924542903900146,
+            "score": 8.746427928384085,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533375,
+            "lon": 8.739863,
+            "soundscape": {
+                "id": 2272930435,
+                "url": "https://media.birdweather.com/soundscapes/111837244b6e5d789b1b160c4f73cb5f",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766808340,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:27.000+01:00",
+            "confidence": 0.654394805431366,
+            "probability": 0.862801730632782,
+            "score": 8.805691275886325,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272889600,
+                "url": "https://media.birdweather.com/soundscapes/a4b6c123785dcac596d8e98d59c27f37",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766808334,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:25.500+01:00",
+            "confidence": 0.8288095593452454,
+            "probability": 0.862801730632782,
+            "score": 9.353988298108558,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272889600,
+                "url": "https://media.birdweather.com/soundscapes/a4b6c123785dcac596d8e98d59c27f37",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766806270,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:16.000+01:00",
+            "confidence": 0.698786199092865,
+            "probability": 0.862801730632782,
+            "score": 8.9673702779781,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272887667,
+                "url": "https://media.birdweather.com/soundscapes/fef40dfbf6d4597eb50ecd34042b4a11",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766806266,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:14.500+01:00",
+            "confidence": 0.8720930218696594,
+            "probability": 0.862801730632782,
+            "score": 9.461770634167683,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272887667,
+                "url": "https://media.birdweather.com/soundscapes/fef40dfbf6d4597eb50ecd34042b4a11",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766806263,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:13.000+01:00",
+            "confidence": 0.883438229560852,
+            "probability": 0.862801730632782,
+            "score": 9.488673297293452,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272887667,
+                "url": "https://media.birdweather.com/soundscapes/fef40dfbf6d4597eb50ecd34042b4a11",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766806251,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:11.500+01:00",
+            "confidence": 0.6250744462013245,
+            "probability": 0.862801730632782,
+            "score": 8.6873817201827,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272887667,
+                "url": "https://media.birdweather.com/soundscapes/fef40dfbf6d4597eb50ecd34042b4a11",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766806242,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:10.000+01:00",
+            "confidence": 0.8138551115989685,
+            "probability": 0.862801730632782,
+            "score": 9.314687075043762,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272887667,
+                "url": "https://media.birdweather.com/soundscapes/fef40dfbf6d4597eb50ecd34042b4a11",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766804337,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:02.000+01:00",
+            "confidence": 0.5754389762878418,
+            "probability": 0.862801730632782,
+            "score": 8.460388997217333,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272885950,
+                "url": "https://media.birdweather.com/soundscapes/e80e006bb9f52ca063226301bad29596",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766804335,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:20:00.500+01:00",
+            "confidence": 0.5980252027511597,
+            "probability": 0.862801730632782,
+            "score": 8.568361373566386,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272885950,
+                "url": "https://media.birdweather.com/soundscapes/e80e006bb9f52ca063226301bad29596",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766804332,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:59.000+01:00",
+            "confidence": 0.8390604853630066,
+            "probability": 0.862801730632782,
+            "score": 9.38029149878289,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272885950,
+                "url": "https://media.birdweather.com/soundscapes/e80e006bb9f52ca063226301bad29596",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766804330,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:57.500+01:00",
+            "confidence": 0.8492826223373413,
+            "probability": 0.862801730632782,
+            "score": 9.406027389208647,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272885950,
+                "url": "https://media.birdweather.com/soundscapes/e80e006bb9f52ca063226301bad29596",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766804326,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:56.000+01:00",
+            "confidence": 0.8981382846832275,
+            "probability": 0.862801730632782,
+            "score": 9.522763539291205,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.53336,
+            "lon": 8.739993,
+            "soundscape": {
+                "id": 2272885950,
+                "url": "https://media.birdweather.com/soundscapes/e80e006bb9f52ca063226301bad29596",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766802446,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:48.500+01:00",
+            "confidence": 0.532280445098877,
+            "probability": 0.862801730632782,
+            "score": 8.22691271266129,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.533443,
+            "lon": 8.740033,
+            "soundscape": {
+                "id": 2272884139,
+                "url": "https://media.birdweather.com/soundscapes/57ff02440ea31b0bf7f1492836cc0c6b",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766802439,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:47.000+01:00",
+            "confidence": 0.7201097011566162,
+            "probability": 0.18735750019550323,
+            "score": 7.0019666717292885,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 56,
+                "commonName": "Hawfinch",
+                "scientificName": "Coccothraustes coccothraustes",
+                "color": "#009135",
+                "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+                "pngUrl": "https://media.birdweather.com/species/56/Hawfinch-png200-a69e6ce36567512aebe7edd3498f3923.png"
+            },
+            "lat": 47.533443,
+            "lon": 8.740033,
+            "soundscape": {
+                "id": 2272884139,
+                "url": "https://media.birdweather.com/soundscapes/57ff02440ea31b0bf7f1492836cc0c6b",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766802442,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:47.000+01:00",
+            "confidence": 0.6033095717430115,
+            "probability": 0.862801730632782,
+            "score": 8.592440379776265,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 6,
+                "commonName": "European Robin",
+                "scientificName": "Erithacus rubecula",
+                "color": "#93d436",
+                "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/6/EuropeanRobin-png200-ac96bfc6bbb72a9e2528d5544937cebd.png"
+            },
+            "lat": 47.533443,
+            "lon": 8.740033,
+            "soundscape": {
+                "id": 2272884139,
+                "url": "https://media.birdweather.com/soundscapes/57ff02440ea31b0bf7f1492836cc0c6b",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766800634,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:30.500+01:00",
+            "confidence": 0.5466052293777466,
+            "probability": 0.18735750019550323,
+            "score": 6.2721305803689384,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 56,
+                "commonName": "Hawfinch",
+                "scientificName": "Coccothraustes coccothraustes",
+                "color": "#009135",
+                "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+                "pngUrl": "https://media.birdweather.com/species/56/Hawfinch-png200-a69e6ce36567512aebe7edd3498f3923.png"
+            },
+            "lat": 47.533463,
+            "lon": 8.740047,
+            "soundscape": {
+                "id": 2272882357,
+                "url": "https://media.birdweather.com/soundscapes/03ca5c6a61f9a794ef006d43c6ebdccb",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766800631,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:19:29.000+01:00",
+            "confidence": 0.6510884761810303,
+            "probability": 0.18735750019550323,
+            "score": 6.756082346291266,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 56,
+                "commonName": "Hawfinch",
+                "scientificName": "Coccothraustes coccothraustes",
+                "color": "#009135",
+                "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+                "pngUrl": "https://media.birdweather.com/species/56/Hawfinch-png200-a69e6ce36567512aebe7edd3498f3923.png"
+            },
+            "lat": 47.533463,
+            "lon": 8.740047,
+            "soundscape": {
+                "id": 2272882357,
+                "url": "https://media.birdweather.com/soundscapes/03ca5c6a61f9a794ef006d43c6ebdccb",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766775263,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:16:31.500+01:00",
+            "confidence": 0.578298807144165,
+            "probability": 0.9941527843475342,
+            "score": 8.666601845029412,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533596,
+            "lon": 8.740223,
+            "soundscape": {
+                "id": 2272858650,
+                "url": "https://media.birdweather.com/soundscapes/8d78cf103b40d36267b1bf36c84722eb",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766762841,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:15:03.000+01:00",
+            "confidence": 0.6125366687774658,
+            "probability": 0.9941527843475342,
+            "score": 8.825558040540088,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533752,
+            "lon": 8.740182,
+            "soundscape": {
+                "id": 2272847375,
+                "url": "https://media.birdweather.com/soundscapes/4880a07e5c7102a8179a96439c9b0c3c",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766762836,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:15:01.500+01:00",
+            "confidence": 0.61622154712677,
+            "probability": 0.9941527843475342,
+            "score": 8.841616172294161,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 35,
+                "commonName": "Eurasian Blackbird",
+                "scientificName": "Turdus merula",
+                "color": "#ff65df",
+                "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+                "pngUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-png200-ba5a1b43225da4611cac429c52a52c81.png"
+            },
+            "lat": 47.533752,
+            "lon": 8.740182,
+            "soundscape": {
+                "id": 2272847375,
+                "url": "https://media.birdweather.com/soundscapes/4880a07e5c7102a8179a96439c9b0c3c",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766749027,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:13:27.500+01:00",
+            "confidence": 0.6182574033737183,
+            "probability": 0.9924542903900146,
+            "score": 8.848088780715791,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533585,
+            "lon": 8.740105,
+            "soundscape": {
+                "id": 2272834656,
+                "url": "https://media.birdweather.com/soundscapes/53b5a147fde0d2793d1f3bd9b368d84c",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766749024,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:13:26.000+01:00",
+            "confidence": 0.6520387530326843,
+            "probability": 0.9924542903900146,
+            "score": 8.986295426646445,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533585,
+            "lon": 8.740105,
+            "soundscape": {
+                "id": 2272834656,
+                "url": "https://media.birdweather.com/soundscapes/53b5a147fde0d2793d1f3bd9b368d84c",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766747128,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:13:13.500+01:00",
+            "confidence": 0.7581652998924255,
+            "probability": 0.9924542903900146,
+            "score": 9.347275044853632,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533371,
+            "lon": 8.739922,
+            "soundscape": {
+                "id": 2272832902,
+                "url": "https://media.birdweather.com/soundscapes/dfc1ef4f0724918a5b389bb6b21142e7",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766735837,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:12:00.500+01:00",
+            "confidence": 0.594505786895752,
+            "probability": 0.0717945396900177,
+            "score": 5.308614430008734,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 29,
+                "commonName": "Eurasian Treecreeper",
+                "scientificName": "Certhia familiaris",
+                "color": "#ac069e",
+                "imageUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-standard-2ace0dbe4ff2790ed1ab014f1b63f609.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-thumbnail-ffe08041f04b94a95cf9afc9029089b7.jpg",
+                "pngUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-png200-b045c44b81231f537264af3dbebbe87c.png"
+            },
+            "lat": 47.533081,
+            "lon": 8.73967,
+            "soundscape": {
+                "id": 2272822265,
+                "url": "https://media.birdweather.com/soundscapes/95148f8da73b5b4b4694963f3b6bf4a5",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766735832,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:11:59.000+01:00",
+            "confidence": 0.6074396371841431,
+            "probability": 0.0717945396900177,
+            "score": 5.367497185280957,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 29,
+                "commonName": "Eurasian Treecreeper",
+                "scientificName": "Certhia familiaris",
+                "color": "#ac069e",
+                "imageUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-standard-2ace0dbe4ff2790ed1ab014f1b63f609.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-thumbnail-ffe08041f04b94a95cf9afc9029089b7.jpg",
+                "pngUrl": "https://media.birdweather.com/species/29/EurasianTreecreeper-png200-b045c44b81231f537264af3dbebbe87c.png"
+            },
+            "lat": 47.533081,
+            "lon": 8.73967,
+            "soundscape": {
+                "id": 2272822265,
+                "url": "https://media.birdweather.com/soundscapes/95148f8da73b5b4b4694963f3b6bf4a5",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766730475,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:11:19.000+01:00",
+            "confidence": 0.8607265949249268,
+            "probability": 1.0,
+            "score": 9.634293394740016,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 66,
+                "commonName": "Eurasian Blue Tit",
+                "scientificName": "Cyanistes caeruleus",
+                "color": "#4b8900",
+                "imageUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-standard-4ec8e45d78b2908d0f41ae495ae07571.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-thumbnail-4d9abc54a3abc3fb12e78e603cbe6784.jpg",
+                "pngUrl": "https://media.birdweather.com/species/66/EurasianBlueTit-png200-49adab92304ba7a74e93ac43e38e62d3.png"
+            },
+            "lat": 47.533268,
+            "lon": 8.739853,
+            "soundscape": {
+                "id": 2272817047,
+                "url": "https://media.birdweather.com/soundscapes/51ad4bd443ed9fde2d69bd28785fd08c",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766726728,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:10:46.000+01:00",
+            "confidence": 0.8145195245742798,
+            "probability": 0.2710002362728119,
+            "score": 7.763763853456623,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.533253,
+            "lon": 8.739952,
+            "soundscape": {
+                "id": 2272813485,
+                "url": "https://media.birdweather.com/soundscapes/279eab1304fd6ff3a0f6fb3c19cabb84",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766722536,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:10:19.500+01:00",
+            "confidence": 0.9421996474266052,
+            "probability": 0.2710002362728119,
+            "score": 8.067445902809181,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.53326,
+            "lon": 8.739863,
+            "soundscape": {
+                "id": 2272809490,
+                "url": "https://media.birdweather.com/soundscapes/8fdc5549e6fe30fec88beba175f193ae",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766718752,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:09:54.500+01:00",
+            "confidence": 0.6322233080863953,
+            "probability": 0.2710002362728119,
+            "score": 7.164490033900396,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.533325,
+            "lon": 8.740015,
+            "soundscape": {
+                "id": 2272805806,
+                "url": "https://media.birdweather.com/soundscapes/d80b0f77d377086ee1443bc08d33cadd",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766718742,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:09:53.000+01:00",
+            "confidence": 0.5520341396331787,
+            "probability": 0.2710002362728119,
+            "score": 6.786037391789836,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.533325,
+            "lon": 8.740015,
+            "soundscape": {
+                "id": 2272805806,
+                "url": "https://media.birdweather.com/soundscapes/d80b0f77d377086ee1443bc08d33cadd",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766718734,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:09:48.500+01:00",
+            "confidence": 0.6837695837020874,
+            "probability": 0.9924542903900146,
+            "score": 9.104527887979774,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533325,
+            "lon": 8.740015,
+            "soundscape": {
+                "id": 2272805806,
+                "url": "https://media.birdweather.com/soundscapes/d80b0f77d377086ee1443bc08d33cadd",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766715116,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:09:22.500+01:00",
+            "confidence": 0.693621039390564,
+            "probability": 0.2710002362728119,
+            "score": 7.396816360038799,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.533257,
+            "lon": 8.739992,
+            "soundscape": {
+                "id": 2272802335,
+                "url": "https://media.birdweather.com/soundscapes/721b907f8aac1d23efbd8e0ef5dd3d8c",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766709707,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:08:44.000+01:00",
+            "confidence": 0.7603709697723389,
+            "probability": 0.9924542903900146,
+            "score": 9.35385458589805,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533115,
+            "lon": 8.739635,
+            "soundscape": {
+                "id": 2272797101,
+                "url": "https://media.birdweather.com/soundscapes/06474ac1c50f62804ce2ac7462a00ff9",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766709699,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:08:42.500+01:00",
+            "confidence": 0.7199997305870056,
+            "probability": 0.9924542903900146,
+            "score": 9.228117971464627,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 11,
+                "commonName": "Great Tit",
+                "scientificName": "Parus major",
+                "color": "#7a41c7",
+                "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+                "pngUrl": "https://media.birdweather.com/species/11/GreatTit-png200-9f3394faf07d12f615112c10cb9d7f02.png"
+            },
+            "lat": 47.533115,
+            "lon": 8.739635,
+            "soundscape": {
+                "id": 2272797101,
+                "url": "https://media.birdweather.com/soundscapes/06474ac1c50f62804ce2ac7462a00ff9",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766704186,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T18:08:07.500+01:00",
+            "confidence": 0.5525849461555481,
+            "probability": 0.2710002362728119,
+            "score": 6.789028183286177,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 2,
+                "commonName": "Short-toed Treecreeper",
+                "scientificName": "Certhia brachydactyla",
+                "color": "#66dd57",
+                "imageUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-standard-7bbb76fb215629d251262575c97eb338.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-thumbnail-fab8f3fcc7962cfbf3bdbde5dc2a415d.jpg",
+                "pngUrl": "https://media.birdweather.com/species/2/Short-toedTreecreeper-png200-9ed36805c2a6923b35a860f2814cdd8c.png"
+            },
+            "lat": 47.533085,
+            "lon": 8.73964,
+            "soundscape": {
+                "id": 2272791812,
+                "url": "https://media.birdweather.com/soundscapes/ba074273612be71b2eb59a3e0a6e701f",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766611104,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:57:11.500+01:00",
+            "confidence": 0.5710456371307373,
+            "probability": 0.9497579336166382,
+            "score": 8.568473489288168,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 25,
+                "commonName": "Common Chaffinch",
+                "scientificName": "Fringilla coelebs",
+                "color": "#fb7eff",
+                "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                "pngUrl": "https://media.birdweather.com/species/25/CommonChaffinch-png200-ced617224ab07c316109e2d0e9078f2e.png"
+            },
+            "lat": 47.533375,
+            "lon": 8.739979,
+            "soundscape": {
+                "id": 2272706178,
+                "url": "https://media.birdweather.com/soundscapes/7910920c443d808cbee4a665756337b8",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766584957,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:54:04.000+01:00",
+            "confidence": 0.8042364716529846,
+            "probability": 0.7776641249656677,
+            "score": 9.14818734512677,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.53339,
+            "lon": 8.739957,
+            "soundscape": {
+                "id": 2272682464,
+                "url": "https://media.birdweather.com/soundscapes/30358d4a9e442a26f6a8714a8315c0e3",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766584955,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:54:02.500+01:00",
+            "confidence": 0.981622576713562,
+            "probability": 0.7776641249656677,
+            "score": 9.561147472976453,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.53339,
+            "lon": 8.739957,
+            "soundscape": {
+                "id": 2272682464,
+                "url": "https://media.birdweather.com/soundscapes/30358d4a9e442a26f6a8714a8315c0e3",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766584950,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:54:01.000+01:00",
+            "confidence": 0.6970323920249939,
+            "probability": 0.7776641249656677,
+            "score": 8.820719699632901,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.53339,
+            "lon": 8.739957,
+            "soundscape": {
+                "id": 2272682464,
+                "url": "https://media.birdweather.com/soundscapes/30358d4a9e442a26f6a8714a8315c0e3",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583062,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:55.500+01:00",
+            "confidence": 0.8135422468185425,
+            "probability": 0.7776641249656677,
+            "score": 9.173240467237637,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583058,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:54.000+01:00",
+            "confidence": 0.9686749577522278,
+            "probability": 0.7776641249656677,
+            "score": 9.534873587121515,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583051,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:52.500+01:00",
+            "confidence": 0.9414665102958679,
+            "probability": 0.7776641249656677,
+            "score": 9.477962277627398,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583043,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:51.000+01:00",
+            "confidence": 0.9767548441886902,
+            "probability": 0.7776641249656677,
+            "score": 9.551328667094914,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 3.0,
+                "endTime": 6.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583040,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:49.500+01:00",
+            "confidence": 0.9958193302154541,
+            "probability": 0.7776641249656677,
+            "score": 9.589388578357998,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 1.5,
+                "endTime": 4.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766583032,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:48.000+01:00",
+            "confidence": 0.9748841524124146,
+            "probability": 0.7776641249656677,
+            "score": 9.547536457227746,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533451,
+            "lon": 8.740133,
+            "soundscape": {
+                "id": 2272680797,
+                "url": "https://media.birdweather.com/soundscapes/3280acded05c2bdd76a9aa6192d6d142",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766580928,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:39.000+01:00",
+            "confidence": 0.9726415276527405,
+            "probability": 0.7776641249656677,
+            "score": 9.542976397552756,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272678861,
+                "url": "https://media.birdweather.com/soundscapes/83762b510d373c1aeeace8b84e045a6c",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766580921,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:37.500+01:00",
+            "confidence": 0.7664927244186401,
+            "probability": 0.7776641249656677,
+            "score": 9.041597339576024,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272678861,
+                "url": "https://media.birdweather.com/soundscapes/83762b510d373c1aeeace8b84e045a6c",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766580918,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:33.000+01:00",
+            "confidence": 0.87632155418396,
+            "probability": 0.7776641249656677,
+            "score": 9.33124730805687,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272678861,
+                "url": "https://media.birdweather.com/soundscapes/83762b510d373c1aeeace8b84e045a6c",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766579098,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:27.500+01:00",
+            "confidence": 0.6837143898010254,
+            "probability": 0.7776641249656677,
+            "score": 8.77397616263376,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272677179,
+                "url": "https://media.birdweather.com/soundscapes/87a29c70ddc710a86f6d836f745ef476",
+                "startTime": 7.5,
+                "endTime": 10.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766579092,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:26.000+01:00",
+            "confidence": 0.7676398158073425,
+            "probability": 0.7776641249656677,
+            "score": 9.044961992716253,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 52,
+                "commonName": "Eurasian Magpie",
+                "scientificName": "Pica pica",
+                "color": "#d9c845",
+                "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+                "pngUrl": "https://media.birdweather.com/species/52/EurasianMagpie-png200-5c239aeda607c9e0851a39f804982091.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272677179,
+                "url": "https://media.birdweather.com/soundscapes/87a29c70ddc710a86f6d836f745ef476",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766577278,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:53:11.500+01:00",
+            "confidence": 0.740565299987793,
+            "probability": 0.14451216161251068,
+            "score": 6.731801038482792,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 171,
+                "commonName": "Eurasian Bullfinch",
+                "scientificName": "Pyrrhula pyrrhula",
+                "color": "#ffa9fc",
+                "imageUrl": "https://media.birdweather.com/species/171/EurasianBullfinch-standard-6bd55a134dde0c1ba4684c2cdecfa9e4.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/171/EurasianBullfinch-thumbnail-c2fcccee34220f4785b350242db27e47.jpg",
+                "pngUrl": "https://media.birdweather.com/species/171/EurasianBullfinch-png200-58b2364ea3d089dace5d6c1a5a289a25.png"
+            },
+            "lat": 47.533501,
+            "lon": 8.740269,
+            "soundscape": {
+                "id": 2272675512,
+                "url": "https://media.birdweather.com/soundscapes/3fd4f046bc471b81b151f4351777315a",
+                "startTime": 4.5,
+                "endTime": 7.5,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766532011,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:48:05.000+01:00",
+            "confidence": 0.7949373126029968,
+            "probability": 0.9497579336166382,
+            "score": 9.393410637692737,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 25,
+                "commonName": "Common Chaffinch",
+                "scientificName": "Fringilla coelebs",
+                "color": "#fb7eff",
+                "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                "pngUrl": "https://media.birdweather.com/species/25/CommonChaffinch-png200-ced617224ab07c316109e2d0e9078f2e.png"
+            },
+            "lat": 47.533443,
+            "lon": 8.740067,
+            "soundscape": {
+                "id": 2272635400,
+                "url": "https://media.birdweather.com/soundscapes/443365f8cf9cdcbfe571036fc4c911a0",
+                "startTime": 6.0,
+                "endTime": 9.0,
+                "mode": "live"
+            }
+        },
+        {
+            "id": 1766523440,
+            "stationId": 8420,
+            "timestamp": "2025-03-10T17:46:58.000+01:00",
+            "confidence": 0.7026724815368652,
+            "probability": 0.9497579336166382,
+            "score": 9.110769249369413,
+            "certainty": "almost_certain",
+            "algorithm": "BirdNET",
+            "metadata": null,
+            "species": {
+                "id": 25,
+                "commonName": "Common Chaffinch",
+                "scientificName": "Fringilla coelebs",
+                "color": "#fb7eff",
+                "imageUrl": "https://media.birdweather.com/species/25/CommonChaffinch-standard-d8edb223d1ec828ee0cda788e8f5f209.jpg",
+                "thumbnailUrl": "https://media.birdweather.com/species/25/CommonChaffinch-thumbnail-7ba0a46bb0cd7efdb3215242f9528140.jpg",
+                "pngUrl": "https://media.birdweather.com/species/25/CommonChaffinch-png200-ced617224ab07c316109e2d0e9078f2e.png"
+            },
+            "lat": 47.533398,
+            "lon": 8.740055,
+            "soundscape": {
+                "id": 2272628170,
+                "url": "https://media.birdweather.com/soundscapes/3cb8e08e7c7672ae644f3c846dde1a03",
+                "startTime": 0.0,
+                "endTime": 3.0,
+                "mode": "live"
+            }
+        }
+    ]
+}
