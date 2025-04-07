@@ -6,7 +6,7 @@ ENV PYSPARK_PYTHON=python3
 ENV PYSPARK_DRIVER_PYTHON=python3
 
 # Installieren Sie zusätzliche Python-Bibliotheken nach Bedarf
-RUN pip install --no-cache-dir pandas numpy matplotlib sparky 
+RUN pip install --no-cache-dir pandas numpy matplotlib sparky gql[all] asyncio aioactioncable
 
 # Installieren Sie Netcat
 USER root

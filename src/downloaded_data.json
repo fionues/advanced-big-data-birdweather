@@ -1,0 +1,2012 @@
+Query für 2025-03-15T18:00:00+02:00 bis 2025-03-16T18:00:00+02:00:
+{
+  "data": {
+    "detections": {
+      "speciesCount": 50,
+      "totalCount": 2729,
+      "edges": [
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5340339541435242,
+            "eclipse": null,
+            "id": "1811965010",
+            "probability": 0.862801730632782,
+            "score": 8.237216141928217,
+            "speciesId": "6",
+            "timestamp": "2025-03-16T00:08:01+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6066684722900391,
+            "eclipse": null,
+            "id": "1811926401",
+            "probability": 0.5676825046539307,
+            "score": 8.042151516495672,
+            "speciesId": "106",
+            "timestamp": "2025-03-16T00:00:57+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5574197769165039,
+            "eclipse": null,
+            "id": "1811882046",
+            "probability": 0.5676825046539307,
+            "score": 7.8023204896924305,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T23:53:05+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5806189179420471,
+            "eclipse": null,
+            "id": "1811855013",
+            "probability": 0.06060423329472542,
+            "score": 5.040887039621981,
+            "speciesId": "220",
+            "timestamp": "2025-03-15T23:48:23+01:00",
+            "species": {
+              "commonName": "Water Rail",
+              "id": "220",
+              "imageUrl": "https://media.birdweather.com/species/220/WaterRail-standard-a5d0da0b5147da8c75f000c8abf0015e.jpg",
+              "scientificName": "Rallus aquaticus",
+              "thumbnailUrl": "https://media.birdweather.com/species/220/WaterRail-thumbnail-67e66ad6bce9b08e68a1aa39a5937596.jpg",
+              "color": "#972a3c"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8392035365104675,
+            "eclipse": null,
+            "id": "1811819833",
+            "probability": 0.5676825046539307,
+            "score": 8.815277929799468,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T23:41:46+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5470408201217651,
+            "eclipse": null,
+            "id": "1811738470",
+            "probability": 0.42310667037963867,
+            "score": 7.351323466759953,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T23:27:53+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5062776207923889,
+            "eclipse": null,
+            "id": "1811704828",
+            "probability": 0.42310667037963867,
+            "score": 7.104270474365967,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T23:22:15+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5104808211326599,
+            "eclipse": null,
+            "id": "1811606269",
+            "probability": 0.5676825046539307,
+            "score": 7.526520874618632,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T23:06:47+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6115924119949341,
+            "eclipse": null,
+            "id": "1811596180",
+            "probability": 0.5676825046539307,
+            "score": 8.063973825482194,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T23:05:11+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6206470131874084,
+            "eclipse": null,
+            "id": "1811553082",
+            "probability": 0.5676825046539307,
+            "score": 8.103217350445213,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:58:13+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5841382741928101,
+            "eclipse": null,
+            "id": "1811545734",
+            "probability": 0.5676825046539307,
+            "score": 7.937611928477756,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:56:29+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6068146228790283,
+            "eclipse": null,
+            "id": "1811534966",
+            "probability": 0.5676825046539307,
+            "score": 8.042804268991315,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:54:48+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7489358186721802,
+            "eclipse": null,
+            "id": "1811534961",
+            "probability": 0.5676825046539307,
+            "score": 8.564275868150334,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:54:47+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5721906423568726,
+            "eclipse": null,
+            "id": "1811515256",
+            "probability": 0.5676825046539307,
+            "score": 7.8787590727817305,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:50:58+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5650928020477295,
+            "eclipse": null,
+            "id": "1811497802",
+            "probability": 0.5676825046539307,
+            "score": 7.842559904300519,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:47:54+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7266966104507446,
+            "eclipse": null,
+            "id": "1811490338",
+            "probability": 0.5676825046539307,
+            "score": 8.494670705351448,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:46:45+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5176653265953064,
+            "eclipse": null,
+            "id": "1811437388",
+            "probability": 0.5676825046539307,
+            "score": 7.572503754770905,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:38:12+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5059463977813721,
+            "eclipse": null,
+            "id": "1811299373",
+            "probability": 0.24050667881965637,
+            "score": 6.351995976752047,
+            "speciesId": "136",
+            "timestamp": "2025-03-15T22:16:10+01:00",
+            "species": {
+              "commonName": "Eurasian Moorhen",
+              "id": "136",
+              "imageUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-standard-7fbea3f567eb87f2e5637e65f2e345a9.jpg",
+              "scientificName": "Gallinula chloropus",
+              "thumbnailUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-thumbnail-b3a07142f4c0d0b456db50c940eeb498.jpg",
+              "color": "#ff6aae"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5461034178733826,
+            "eclipse": null,
+            "id": "1811260723",
+            "probability": 0.42310667037963867,
+            "score": 7.3461150813500735,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T22:10:01+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6884527206420898,
+            "eclipse": null,
+            "id": "1811253933",
+            "probability": 0.5676825046539307,
+            "score": 8.366025264951414,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T22:08:58+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6242762207984924,
+            "eclipse": null,
+            "id": "1811113135",
+            "probability": 0.5676825046539307,
+            "score": 8.11863644732116,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T21:46:12+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5000313520431519,
+            "eclipse": null,
+            "id": "1811105182",
+            "probability": 0.5676825046539307,
+            "score": 7.456759894444679,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T21:44:55+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5194430947303772,
+            "eclipse": null,
+            "id": "1811053953",
+            "probability": 0.5676825046539307,
+            "score": 7.583647698266093,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T21:36:40+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5879311561584473,
+            "eclipse": null,
+            "id": "1811047321",
+            "probability": 0.5676825046539307,
+            "score": 7.955778689918599,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T21:35:36+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6524918675422668,
+            "eclipse": null,
+            "id": "1811029457",
+            "probability": 0.24050667881965637,
+            "score": 7.088249897793998,
+            "speciesId": "136",
+            "timestamp": "2025-03-15T21:32:18+01:00",
+            "species": {
+              "commonName": "Eurasian Moorhen",
+              "id": "136",
+              "imageUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-standard-7fbea3f567eb87f2e5637e65f2e345a9.jpg",
+              "scientificName": "Gallinula chloropus",
+              "thumbnailUrl": "https://media.birdweather.com/species/136/EurasianMoorhen-thumbnail-b3a07142f4c0d0b456db50c940eeb498.jpg",
+              "color": "#ff6aae"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7005407810211182,
+            "eclipse": null,
+            "id": "1810921468",
+            "probability": 0.13458816707134247,
+            "score": 6.510372838489955,
+            "speciesId": "49",
+            "timestamp": "2025-03-15T21:14:35+01:00",
+            "species": {
+              "commonName": "Goldcrest",
+              "id": "49",
+              "imageUrl": "https://media.birdweather.com/species/49/Goldcrest-standard-71cdcf0b46d13fd889e95b4b123485dd.jpg",
+              "scientificName": "Regulus regulus",
+              "thumbnailUrl": "https://media.birdweather.com/species/49/Goldcrest-thumbnail-8b41917941250078e9bf176ff26569f3.jpg",
+              "color": "#4c42b1"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5736268162727356,
+            "eclipse": null,
+            "id": "1810847741",
+            "probability": 0.5676825046539307,
+            "score": 7.8859686728939,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T21:02:51+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6417009234428406,
+            "eclipse": null,
+            "id": "1810821669",
+            "probability": 0.42310667037963867,
+            "score": 7.795727183495096,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T20:58:27+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6930201649665833,
+            "eclipse": null,
+            "id": "1810801419",
+            "probability": 0.13458816707134247,
+            "score": 6.484404946487381,
+            "speciesId": "49",
+            "timestamp": "2025-03-15T20:55:17+01:00",
+            "species": {
+              "commonName": "Goldcrest",
+              "id": "49",
+              "imageUrl": "https://media.birdweather.com/species/49/Goldcrest-standard-71cdcf0b46d13fd889e95b4b123485dd.jpg",
+              "scientificName": "Regulus regulus",
+              "thumbnailUrl": "https://media.birdweather.com/species/49/Goldcrest-thumbnail-8b41917941250078e9bf176ff26569f3.jpg",
+              "color": "#4c42b1"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6628040671348572,
+            "eclipse": null,
+            "id": "1810801420",
+            "probability": 0.862801730632782,
+            "score": 8.837819649114907,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T20:55:17+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5983090996742249,
+            "eclipse": null,
+            "id": "1810801425",
+            "probability": 0.42310667037963867,
+            "score": 7.609673421830878,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T20:55:17+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5601063370704651,
+            "eclipse": null,
+            "id": "1810794839",
+            "probability": 0.42310667037963867,
+            "score": 7.421929087589579,
+            "speciesId": "61",
+            "timestamp": "2025-03-15T20:54:11+01:00",
+            "species": {
+              "commonName": "Song Thrush",
+              "id": "61",
+              "imageUrl": "https://media.birdweather.com/species/61/SongThrush-standard-8821482383a2449437975b6fbfa9a7f6.jpg",
+              "scientificName": "Turdus philomelos",
+              "thumbnailUrl": "https://media.birdweather.com/species/61/SongThrush-thumbnail-313c4d63857e61b1b3f25e96ea42e23f.jpg",
+              "color": "#c20085"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.503161609172821,
+            "eclipse": null,
+            "id": "1810787915",
+            "probability": 0.5676825046539307,
+            "score": 7.478032777876833,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T20:53:11+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7684355974197388,
+            "eclipse": null,
+            "id": "1810719753",
+            "probability": 0.2030491977930069,
+            "score": 7.2559496907916206,
+            "speciesId": "528",
+            "timestamp": "2025-03-15T20:41:55+01:00",
+            "species": {
+              "commonName": "Green-winged Teal",
+              "id": "528",
+              "imageUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-standard-72cd4430bd15b567da915412028d669a.jpg",
+              "scientificName": "Anas crecca",
+              "thumbnailUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-thumbnail-a98c9ccd9eba2019903bf078047b9b5a.jpg",
+              "color": "#00a842"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6328368186950684,
+            "eclipse": null,
+            "id": "1810692215",
+            "probability": 0.03735731169581413,
+            "score": 4.727548684705511,
+            "speciesId": "186",
+            "timestamp": "2025-03-15T20:37:19+01:00",
+            "species": {
+              "commonName": "Tawny Owl",
+              "id": "186",
+              "imageUrl": "https://media.birdweather.com/species/186/TawnyOwl-standard-a880387489a3d9307eaa5193225ffd9d.jpg",
+              "scientificName": "Strix aluco",
+              "thumbnailUrl": "https://media.birdweather.com/species/186/TawnyOwl-thumbnail-f1a9d78408877a4e4f011b228882ac2a.jpg",
+              "color": "#ff81c2"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.704780638217926,
+            "eclipse": null,
+            "id": "1810689703",
+            "probability": 0.5676825046539307,
+            "score": 8.422433399895388,
+            "speciesId": "106",
+            "timestamp": "2025-03-15T20:36:53+01:00",
+            "species": {
+              "commonName": "Eurasian Coot",
+              "id": "106",
+              "imageUrl": "https://media.birdweather.com/species/106/EurasianCoot-standard-2a8d0e9921cc5b25806667422f3bea55.jpg",
+              "scientificName": "Fulica atra",
+              "thumbnailUrl": "https://media.birdweather.com/species/106/EurasianCoot-thumbnail-2d0f437522ce59f1064ef9e7b3772b25.jpg",
+              "color": "#ff3f73"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5239901542663574,
+            "eclipse": null,
+            "id": "1809991949",
+            "probability": 0.7917202711105347,
+            "score": 8.060742645973779,
+            "speciesId": "130",
+            "timestamp": "2025-03-15T18:54:16+01:00",
+            "species": {
+              "commonName": "Mallard",
+              "id": "130",
+              "imageUrl": "https://media.birdweather.com/species/130/Mallard-standard-8bb254059bc38b8baec0bfe06b0534a8.jpg",
+              "scientificName": "Anas platyrhynchos",
+              "thumbnailUrl": "https://media.birdweather.com/species/130/Mallard-thumbnail-f50dda443ef450d7f593f1005e99764d.jpg",
+              "color": "#aa005f"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.526725172996521,
+            "eclipse": null,
+            "id": "1809946342",
+            "probability": 0.9941527843475342,
+            "score": 8.385811042807731,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:48:17+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7968840003013611,
+            "eclipse": null,
+            "id": "1809946340",
+            "probability": 0.9941527843475342,
+            "score": 9.460737711989038,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:48:15+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6091076135635376,
+            "eclipse": null,
+            "id": "1809946338",
+            "probability": 0.9941527843475342,
+            "score": 8.81044375919056,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:48:12+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7338101267814636,
+            "eclipse": null,
+            "id": "1809942798",
+            "probability": 0.9941527843475342,
+            "score": 9.274760682470745,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:47:48+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7679770588874817,
+            "eclipse": null,
+            "id": "1809941125",
+            "probability": 0.9941527843475342,
+            "score": 9.378623578364346,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:47:38+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5699465870857239,
+            "eclipse": null,
+            "id": "1809937733",
+            "probability": 0.9941527843475342,
+            "score": 8.624856207211984,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:47:06+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6401675939559937,
+            "eclipse": null,
+            "id": "1809932830",
+            "probability": 0.9941527843475342,
+            "score": 8.941619806080551,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:46:34+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6281432509422302,
+            "eclipse": null,
+            "id": "1809932828",
+            "probability": 0.9941527843475342,
+            "score": 8.89231601887272,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:46:32+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.68607097864151,
+            "eclipse": null,
+            "id": "1809932824",
+            "probability": 0.9941527843475342,
+            "score": 9.115038263299274,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:46:31+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6331438422203064,
+            "eclipse": null,
+            "id": "1809922166",
+            "probability": 0.9941527843475342,
+            "score": 8.913036038084572,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:45:14+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5013265609741211,
+            "eclipse": null,
+            "id": "1809922158",
+            "probability": 0.9941527843475342,
+            "score": 8.223040902761367,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:45:12+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.591338574886322,
+            "eclipse": null,
+            "id": "1809911466",
+            "probability": 0.9831233620643616,
+            "score": 8.71420402918638,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:43:52+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7857029438018799,
+            "eclipse": null,
+            "id": "1809911459",
+            "probability": 0.9831233620643616,
+            "score": 9.414426279826284,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:43:51+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6427618861198425,
+            "eclipse": null,
+            "id": "1809909877",
+            "probability": 0.9831233620643616,
+            "score": 8.936897416985484,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:43:39+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7424787878990173,
+            "eclipse": null,
+            "id": "1809909870",
+            "probability": 0.9831233620643616,
+            "score": 9.286735862838661,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:43:38+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7778563499450684,
+            "eclipse": null,
+            "id": "1809909850",
+            "probability": 0.9831233620643616,
+            "score": 9.392113026693517,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:43:36+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5744468569755554,
+            "eclipse": null,
+            "id": "1809904498",
+            "probability": 0.9831233620643616,
+            "score": 8.632376072441957,
+            "speciesId": "58",
+            "timestamp": "2025-03-15T18:42:59+01:00",
+            "species": {
+              "commonName": "Carrion Crow",
+              "id": "58",
+              "imageUrl": "https://media.birdweather.com/species/58/CarrionCrow-standard-ed24da07616d0cd7c5ef9cd2892ec869.jpg",
+              "scientificName": "Corvus corone",
+              "thumbnailUrl": "https://media.birdweather.com/species/58/CarrionCrow-thumbnail-38cc6285bbd8f8340f32fa4dc3f58a69.jpg",
+              "color": "#01a85a"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.63346928358078,
+            "eclipse": null,
+            "id": "1809900002",
+            "probability": 0.06060423329472542,
+            "score": 5.277284886500392,
+            "speciesId": "220",
+            "timestamp": "2025-03-15T18:42:26+01:00",
+            "species": {
+              "commonName": "Water Rail",
+              "id": "220",
+              "imageUrl": "https://media.birdweather.com/species/220/WaterRail-standard-a5d0da0b5147da8c75f000c8abf0015e.jpg",
+              "scientificName": "Rallus aquaticus",
+              "thumbnailUrl": "https://media.birdweather.com/species/220/WaterRail-thumbnail-67e66ad6bce9b08e68a1aa39a5937596.jpg",
+              "color": "#972a3c"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7472046613693237,
+            "eclipse": null,
+            "id": "1809890543",
+            "probability": 0.24270156025886536,
+            "score": 7.426245886700035,
+            "speciesId": "188",
+            "timestamp": "2025-03-15T18:41:07+01:00",
+            "species": {
+              "commonName": "Black-headed Gull",
+              "id": "188",
+              "imageUrl": "https://media.birdweather.com/species/188/Black-headedGull-standard-e6e903ef5e98e8dec7fe397f48623536.jpg",
+              "scientificName": "Chroicocephalus ridibundus",
+              "thumbnailUrl": "https://media.birdweather.com/species/188/Black-headedGull-thumbnail-dc0db4f41147a5c7e9a9b014de85100d.jpg",
+              "color": "#ff95db"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5037567615509033,
+            "eclipse": null,
+            "id": "1809880575",
+            "probability": 0.9941527843475342,
+            "score": 8.239479075100615,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:39:43+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5601467490196228,
+            "eclipse": null,
+            "id": "1809856106",
+            "probability": 0.7776641249656677,
+            "score": 8.241522089411022,
+            "speciesId": "52",
+            "timestamp": "2025-03-15T18:36:16+01:00",
+            "species": {
+              "commonName": "Eurasian Magpie",
+              "id": "52",
+              "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+              "scientificName": "Pica pica",
+              "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+              "color": "#d9c845"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8651220202445984,
+            "eclipse": null,
+            "id": "1809788374",
+            "probability": 0.7776641249656677,
+            "score": 9.304362310431724,
+            "speciesId": "52",
+            "timestamp": "2025-03-15T18:27:49+01:00",
+            "species": {
+              "commonName": "Eurasian Magpie",
+              "id": "52",
+              "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+              "scientificName": "Pica pica",
+              "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+              "color": "#d9c845"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.9281044602394104,
+            "eclipse": null,
+            "id": "1809788370",
+            "probability": 0.7776641249656677,
+            "score": 9.449123110725086,
+            "speciesId": "52",
+            "timestamp": "2025-03-15T18:27:47+01:00",
+            "species": {
+              "commonName": "Eurasian Magpie",
+              "id": "52",
+              "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+              "scientificName": "Pica pica",
+              "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+              "color": "#d9c845"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5384011268615723,
+            "eclipse": null,
+            "id": "1809788357",
+            "probability": 0.7776641249656677,
+            "score": 8.12193310547725,
+            "speciesId": "52",
+            "timestamp": "2025-03-15T18:27:46+01:00",
+            "species": {
+              "commonName": "Eurasian Magpie",
+              "id": "52",
+              "imageUrl": "https://media.birdweather.com/species/52/EurasianMagpie-standard-918a15076b13e00f4b99a7d5416ca730.jpg",
+              "scientificName": "Pica pica",
+              "thumbnailUrl": "https://media.birdweather.com/species/52/EurasianMagpie-thumbnail-d9fbe854e7c8607465886068aaae11f9.jpg",
+              "color": "#d9c845"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.652779757976532,
+            "eclipse": null,
+            "id": "1809713892",
+            "probability": 0.9924542903900146,
+            "score": 8.98917610339158,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:43+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8534062504768372,
+            "eclipse": null,
+            "id": "1809713874",
+            "probability": 0.9924542903900146,
+            "score": 9.606016431714258,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:40+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8168615102767944,
+            "eclipse": null,
+            "id": "1809713861",
+            "probability": 0.9924542903900146,
+            "score": 9.512421600356861,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:38+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5975775122642517,
+            "eclipse": null,
+            "id": "1809713853",
+            "probability": 0.9924542903900146,
+            "score": 8.756044284786055,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:37+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8341912627220154,
+            "eclipse": null,
+            "id": "1809712240",
+            "probability": 0.9924542903900146,
+            "score": 9.557602800086377,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:28+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7081165909767151,
+            "eclipse": null,
+            "id": "1809712229",
+            "probability": 0.9924542903900146,
+            "score": 9.188797363032641,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:26+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6371126174926758,
+            "eclipse": null,
+            "id": "1809710565",
+            "probability": 0.9924542903900146,
+            "score": 8.926941255771991,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:18+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7360593676567078,
+            "eclipse": null,
+            "id": "1809710562",
+            "probability": 0.9924542903900146,
+            "score": 9.279526301663148,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:16+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6357583999633789,
+            "eclipse": null,
+            "id": "1809710558",
+            "probability": 0.9924542903900146,
+            "score": 8.921426735241392,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:18:15+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8127090334892273,
+            "eclipse": null,
+            "id": "1809703443",
+            "probability": 0.13458816707134247,
+            "score": 6.8486161272219634,
+            "speciesId": "49",
+            "timestamp": "2025-03-15T18:17:26+01:00",
+            "species": {
+              "commonName": "Goldcrest",
+              "id": "49",
+              "imageUrl": "https://media.birdweather.com/species/49/Goldcrest-standard-71cdcf0b46d13fd889e95b4b123485dd.jpg",
+              "scientificName": "Regulus regulus",
+              "thumbnailUrl": "https://media.birdweather.com/species/49/Goldcrest-thumbnail-8b41917941250078e9bf176ff26569f3.jpg",
+              "color": "#4c42b1"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6429662704467773,
+            "eclipse": null,
+            "id": "1809699930",
+            "probability": 0.9924542903900146,
+            "score": 8.950525880268124,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:16:52+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7333963513374329,
+            "eclipse": null,
+            "id": "1809697615",
+            "probability": 0.9924542903900146,
+            "score": 9.271134054223289,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:16:39+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7989948987960815,
+            "eclipse": null,
+            "id": "1809690645",
+            "probability": 0.9924542903900146,
+            "score": 9.46422624161302,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:15:53+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6944454312324524,
+            "eclipse": null,
+            "id": "1809683011",
+            "probability": 0.18735750019550323,
+            "score": 6.915608634657226,
+            "speciesId": "56",
+            "timestamp": "2025-03-15T18:14:52+01:00",
+            "species": {
+              "commonName": "Hawfinch",
+              "id": "56",
+              "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+              "scientificName": "Coccothraustes coccothraustes",
+              "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+              "color": "#009135"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6591058969497681,
+            "eclipse": null,
+            "id": "1809683009",
+            "probability": 0.18735750019550323,
+            "score": 6.787015661194603,
+            "speciesId": "56",
+            "timestamp": "2025-03-15T18:14:50+01:00",
+            "species": {
+              "commonName": "Hawfinch",
+              "id": "56",
+              "imageUrl": "https://media.birdweather.com/species/56/Hawfinch-standard-f2fd54227598b155aeb69fb18024453c.jpg",
+              "scientificName": "Coccothraustes coccothraustes",
+              "thumbnailUrl": "https://media.birdweather.com/species/56/Hawfinch-thumbnail-2f25542de0973f7daac6127debea1661.jpg",
+              "color": "#009135"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6731972098350525,
+            "eclipse": null,
+            "id": "1809681325",
+            "probability": 0.862801730632782,
+            "score": 8.87651401684434,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:14:39+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5164978504180908,
+            "eclipse": null,
+            "id": "1809679783",
+            "probability": 0.862801730632782,
+            "score": 8.13051288444987,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:14:23+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6773226857185364,
+            "eclipse": null,
+            "id": "1809678139",
+            "probability": 0.13458816707134247,
+            "score": 6.428563514595695,
+            "speciesId": "49",
+            "timestamp": "2025-03-15T18:14:17+01:00",
+            "species": {
+              "commonName": "Goldcrest",
+              "id": "49",
+              "imageUrl": "https://media.birdweather.com/species/49/Goldcrest-standard-71cdcf0b46d13fd889e95b4b123485dd.jpg",
+              "scientificName": "Regulus regulus",
+              "thumbnailUrl": "https://media.birdweather.com/species/49/Goldcrest-thumbnail-8b41917941250078e9bf176ff26569f3.jpg",
+              "color": "#4c42b1"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.508580207824707,
+            "eclipse": null,
+            "id": "1809678135",
+            "probability": 0.862801730632782,
+            "score": 8.079470847144178,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:14:13+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5423861145973206,
+            "eclipse": null,
+            "id": "1809676205",
+            "probability": 0.862801730632782,
+            "score": 8.285256235226186,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:14:00+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5577476620674133,
+            "eclipse": null,
+            "id": "1809674629",
+            "probability": 0.862801730632782,
+            "score": 8.369441478624323,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:13:45+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7865786552429199,
+            "eclipse": null,
+            "id": "1809671251",
+            "probability": 0.862801730632782,
+            "score": 9.239963470031551,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:13:24+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7239041328430176,
+            "eclipse": null,
+            "id": "1809671238",
+            "probability": 0.862801730632782,
+            "score": 9.051052476154299,
+            "speciesId": "6",
+            "timestamp": "2025-03-15T18:13:19+01:00",
+            "species": {
+              "commonName": "European Robin",
+              "id": "6",
+              "imageUrl": "https://media.birdweather.com/species/6/EuropeanRobin-standard-6802f21dc9c4b056c0c15b0a4ad01a9a.jpg",
+              "scientificName": "Erithacus rubecula",
+              "thumbnailUrl": "https://media.birdweather.com/species/6/EuropeanRobin-thumbnail-3afd51da2d7daf4db7f4ed43af30ed2d.jpg",
+              "color": "#93d436"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6418856382369995,
+            "eclipse": null,
+            "id": "1809662025",
+            "probability": 0.29583343863487244,
+            "score": 7.319785093223062,
+            "speciesId": "17",
+            "timestamp": "2025-03-15T18:12:03+01:00",
+            "species": {
+              "commonName": "Coal Tit",
+              "id": "17",
+              "imageUrl": "https://media.birdweather.com/species/17/CoalTit-standard-cd003bce1c1a2d53e34fa6201763e3fa.jpg",
+              "scientificName": "Periparus ater",
+              "thumbnailUrl": "https://media.birdweather.com/species/17/CoalTit-thumbnail-b678460580ac8ad63bf79c0d91ce7e92.jpg",
+              "color": "#525fe7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7847660779953003,
+            "eclipse": null,
+            "id": "1809655330",
+            "probability": 0.9924542903900146,
+            "score": 9.42459294762441,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:11:03+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.574103832244873,
+            "eclipse": null,
+            "id": "1809651095",
+            "probability": 0.9924542903900146,
+            "score": 8.643474464447225,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:10:28+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6314446926116943,
+            "eclipse": null,
+            "id": "1809651093",
+            "probability": 0.9924542903900146,
+            "score": 8.903711405428734,
+            "speciesId": "11",
+            "timestamp": "2025-03-15T18:10:26+01:00",
+            "species": {
+              "commonName": "Great Tit",
+              "id": "11",
+              "imageUrl": "https://media.birdweather.com/species/11/GreatTit-standard-0058e4dcd148acb2e0cb8a7b7c6ad3b2.jpg",
+              "scientificName": "Parus major",
+              "thumbnailUrl": "https://media.birdweather.com/species/11/GreatTit-thumbnail-6910d0adae4550c5e6f2396322ee64c4.jpg",
+              "color": "#7a41c7"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.9504151344299316,
+            "eclipse": null,
+            "id": "1809651090",
+            "probability": 0.9941527843475342,
+            "score": 9.829616004791523,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:10:25+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8490970134735107,
+            "eclipse": null,
+            "id": "1809651075",
+            "probability": 0.9941527843475342,
+            "score": 9.597626106669585,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:10:23+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5457953810691833,
+            "eclipse": null,
+            "id": "1809651058",
+            "probability": 0.9941527843475342,
+            "score": 8.496453356863436,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:10:22+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7133182287216187,
+            "eclipse": null,
+            "id": "1809649622",
+            "probability": 0.9941527843475342,
+            "score": 9.208467592690248,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:10:15+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8559373617172241,
+            "eclipse": null,
+            "id": "1809649620",
+            "probability": 0.9941527843475342,
+            "score": 9.614587383176076,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:10:14+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.6125091314315796,
+            "eclipse": null,
+            "id": "1809648252",
+            "probability": 0.06060423329472542,
+            "score": 5.188348502549541,
+            "speciesId": "220",
+            "timestamp": "2025-03-15T18:09:59+01:00",
+            "species": {
+              "commonName": "Water Rail",
+              "id": "220",
+              "imageUrl": "https://media.birdweather.com/species/220/WaterRail-standard-a5d0da0b5147da8c75f000c8abf0015e.jpg",
+              "scientificName": "Rallus aquaticus",
+              "thumbnailUrl": "https://media.birdweather.com/species/220/WaterRail-thumbnail-67e66ad6bce9b08e68a1aa39a5937596.jpg",
+              "color": "#972a3c"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.7035230398178101,
+            "eclipse": null,
+            "id": "1809648250",
+            "probability": 0.2030491977930069,
+            "score": 7.051593584973721,
+            "speciesId": "528",
+            "timestamp": "2025-03-15T18:09:59+01:00",
+            "species": {
+              "commonName": "Green-winged Teal",
+              "id": "528",
+              "imageUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-standard-72cd4430bd15b567da915412028d669a.jpg",
+              "scientificName": "Anas crecca",
+              "thumbnailUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-thumbnail-a98c9ccd9eba2019903bf078047b9b5a.jpg",
+              "color": "#00a842"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5370745658874512,
+            "eclipse": null,
+            "id": "1809642168",
+            "probability": 0.2030491977930069,
+            "score": 6.322946932592817,
+            "speciesId": "528",
+            "timestamp": "2025-03-15T18:08:54+01:00",
+            "species": {
+              "commonName": "Green-winged Teal",
+              "id": "528",
+              "imageUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-standard-72cd4430bd15b567da915412028d669a.jpg",
+              "scientificName": "Anas crecca",
+              "thumbnailUrl": "https://media.birdweather.com/species/528/Green-wingedTeal-thumbnail-a98c9ccd9eba2019903bf078047b9b5a.jpg",
+              "color": "#00a842"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5116138458251953,
+            "eclipse": null,
+            "id": "1809639040",
+            "probability": 0.9941527843475342,
+            "score": 8.291314661844662,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:08:45+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.8872555494308472,
+            "eclipse": null,
+            "id": "1809639034",
+            "probability": 0.9941527843475342,
+            "score": 9.689669471775552,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:08:43+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5447690486907959,
+            "eclipse": null,
+            "id": "1809634395",
+            "probability": 0.9941527843475342,
+            "score": 8.490720868633161,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:07:52+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        },
+        {
+          "node": {
+            "certainty": "almost_certain",
+            "confidence": 0.5248085856437683,
+            "eclipse": null,
+            "id": "1809628144",
+            "probability": 0.9941527843475342,
+            "score": 8.37418072550712,
+            "speciesId": "35",
+            "timestamp": "2025-03-15T18:07:10+01:00",
+            "species": {
+              "commonName": "Eurasian Blackbird",
+              "id": "35",
+              "imageUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-standard-618b3a5132c7c359fb2a2884c39deb39.jpg",
+              "scientificName": "Turdus merula",
+              "thumbnailUrl": "https://media.birdweather.com/species/35/EurasianBlackbird-thumbnail-276878929bed08167d1fd9bf34d63d40.jpg",
+              "color": "#ff65df"
+            }
+          }
+        }
+      ]
+    }
+  }
+}
+
